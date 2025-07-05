@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Variables Python quiz",
+    "questions": [
+      {
+        "text": "What is a variable in Python?",
+        "options": [
+          "A reserved word",
+          "A data type",
+          "A location in memory to store data",
+          "A function"
+        ],
+        "correct_option": 2
+      },
+      {
+        "text": "How do you declare a variable in Python?",
+        "options": [
+          "var x",
+          "x = variable",
+          "declare x",
+          " x = 4"
+        ],
+        "correct_option": 3
+      },
+      {
+        "text": "What is the correct way to comment a single line in Python?",
+        "options": [
+          " // This is a comment",
+          "# This is a comment",
+          "/* This is a comment */",
+          "-- This is a comment"
+        ],
+        "correct_option": 1
+      },
+      {
+        "text": "Which of the following is a valid variable name in Python?",
+        "options": [
+          "global",
+          "1variable",
+          "my_variable",
+          "variable-1"
+        ],
+        "correct_option": 2
+      },
+      {
+        "text": "What is the output of the following code: x = 5; print(x)?",
+        "options": [
+          "5",
+          "x",
+          "Error",
+          "None"
+        ],
+        "correct_option": 0
+      },
+      {
+        "text": "Which of the following is not a valid data type in Python?",
+        "options": [
+          "int",
+          "float",
+          "string",
+          "character"
+        ],
+        "correct_option": 3
+      },
+      {
+        "text": "What is the purpose of the 'del' statement in Python?",
+        "options": [
+          "To delete a variable",
+          "To delete a function",
+          "To delete a class",
+          "All of the above"
+        ],
+        "correct_option": 0
+      },
+      {
+        "text": "What is the output of the following code: x = 10; y = 20; print(x + y)?",
+        "options": [
+          "30",
+          "1020",
+          "Error",
+          "None"
+        ],
+        "correct_option": 0
+      },
+      {
+        "text": "Which of the following is a mutable data type in Python?",
+        "options": [
+          "tuple",
+          "list",
+          "string",
+          "int"
+        ],
+        "correct_option": 1
+      },
+      {
+        "text": "What is the output of the following code: x = 'Hello'; print(x[1])?",
+        "options": [
+          "'H'",
+          "'e'",
+          "'l'",
+          "'o'"
+        ],
+        "correct_option": 1
+      }
+    ]
+  }
+]
